@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlockerKotlinPrototype</string>
+
+    <!-- Main Activity Button text-->
+    <string name="start_blocking_apps">Start Blocking Apps</string>
+
+    <!-- Lock Activity text-->
+    <string name="lock_activity_text">This activity is blocked:(</string>
+</resources>
